@@ -58,7 +58,7 @@ const clickcopy=()=>{
       <p>Word count is {Text.split(" ").length} charecter count {Text.length} </p>
       <h2>Reviwe Text</h2>
     <p>{Text}</p>
-    <h1>HAPPY Birthday Andy</h1>
+    <h1>HAPPY Birthday Andy MANY MANY HAPPY RETURNS OF THE DAY</h1>
     </div>
     
     </>
