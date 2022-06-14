@@ -3,13 +3,13 @@ import './App.css';
 // import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer, toast } from 'react-toastify';   //import toast from 'react-toastify' for the text system and the toast pakage name is npm react-toast
 import 'react-toastify/dist/ReactToastify.css';
 import React, { useState } from 'react'
 // import {
 //   BrowserRouter as Router,
 //   Switch,
-//   Route,
+//   Route,   // browser router will not work in github reason unknown if you know about the reason  then just post 
  
 // } from "react-router-dom";
 function App() {
@@ -43,7 +43,7 @@ function App() {
           {/* </Switch> */}
 
         </div>
-
+//toast 
         <ToastContainer />
       {/* </Router> */}
       {/* <div className="container">
